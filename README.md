@@ -8,7 +8,7 @@
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 Things I love
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Python & R <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - HPC 💻
 - Machine Learning 🧐
 - Data Science 😬
