@@ -1,4 +1,4 @@
-<img align="right" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="Coder GIF" width="450" height="370">
+<img align="right" src="RandPython.png" alt="Coder GIF" width="450" height="370">
 
 ### Hi there, I am Jigar Panchal 👋
 [![Linkedin Badge](https://img.shields.io/badge/-ggarpanchal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ggarpanchal/)](https://www.linkedin.com/in/ggarpanchal/)
