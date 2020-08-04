@@ -6,6 +6,7 @@
 
 - 🎯 Portfolio website: [Portfolio](https://ggarpanchal.github.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
+- ⚡ Real fact: [Ada Lovelace](https://www.youtube.com/watch?v=J7ITqnEmf-g) was a brilliant British mathematician and the daughter of the English poet Lord Byron. She’s also considered to be the first-ever computer programmer in history.👩
 
 💻 Things I love
 - Python & R <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
